@@ -25,6 +25,6 @@ The I2C Mode is used in this project but also can be easily changed using LCD Co
 LCD is connected to IO Expander and IO Expander is connected to Microcontroller through bit (3-SCL)
 and (4-SDA) on port C which are pulled up by 4.7 k ohm resistors
 
-   • 4x4 Keypad used as mathematical operations input from user with 2 Extra buttons connected as External Interrupt on Pin 0 and 1 on port B of The Micro Controller a button is used to insert '.' sympol to indicate the number is float and the other is a delete button which the user can use to delete the last appended character, these buttons are pulled up by using 10k ohm resistors.
+   • 4x4 Keypad used as mathematical operations input from user with 2 Extra buttons connected as External Interrupt on Pin 0 and 1 on port B of The Micro Controller a button is used to insert '.' symbol to indicate the number is float and the other is a delete button which the user can use to delete the last appended character, these buttons are pulled up by using 10k ohm resistors.
 
    •Simmulation is included on proteus version 8.15 and project code is made using Mplab IDE v6.0
