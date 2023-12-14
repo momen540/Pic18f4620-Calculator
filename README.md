@@ -19,7 +19,7 @@
    • Math error Handling
 ---------------------------------------------------------------------------------------------------
 4) Description :
-   • LCD is used to display operations and results it is chosen to be a 4*20 display but it's easily changable from the lcd configuration file, It also has 3 modes of operation:
+   • LCD is used to display operations and results it is chosen to be a 4*20 display but it's easily changaable from the lcd configuration file, It also has 3 modes of operation:
 1) 4bit Mode.                    2)8bit Mode.                  3)I2C Mode using IO expander.
 The I2C Mode is used in this project but also can be easily changed using LCD Configuration file
 LCD is connected to IO Expander and IO Expander is connected to Microcontroller through bit (3-SCL)
